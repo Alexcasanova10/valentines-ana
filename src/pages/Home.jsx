@@ -78,7 +78,7 @@ const Home = () => {
             You've earned an invitation for a picnic on March 9th Owo
           </h1>
           <img
-            src="/multimedia/beansPicnic.jpg"
+            src={'/multimedia/beansPicnic.jpg'}
             alt="Picnic Invitation"
             className="image-size-big"
           />

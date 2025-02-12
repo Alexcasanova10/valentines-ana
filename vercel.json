@@ -1,6 +1,6 @@
 {
     "routes": [
-      { "src": "/rickroll", "dest": "/rickroll.html" }
+      { "src": "/rickroll", "dest": "/rickroll" }
     ]
   }
   
