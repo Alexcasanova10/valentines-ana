@@ -22,7 +22,7 @@ a:hover {
 .main-body {
   width: 100%;
   min-height: 100vh;
-  background-image: url('public/background.jpg');
+  background-image: url('/multimedia/background.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

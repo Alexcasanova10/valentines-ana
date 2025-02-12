@@ -21,7 +21,7 @@ const Home = () => {
               color: i % 2 === 0 ? "#85c9f0" : "#ff4d4d", // Azul celeste y rojo
             }}
           >
-            💕💙🫘🩵
+            💕💙🩵
           </span>
         ))}
       </div>
@@ -78,7 +78,7 @@ const Home = () => {
             You've earned an invitation for a picnic on March 9th Owo
           </h1>
           <img
-            src="public/beansPicnic.jpg"
+            src="/multimedia/beansPicnic.jpg"
             alt="Picnic Invitation"
             className="image-size-big"
           />
