@@ -1,0 +1,30 @@
+.main-card{
+  text-align: center;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.blue{
+  background-color: #85c9f0;
+}
+
+.red{
+  background-color: red;
+}
+.white{
+  color:white
+}
+
+
+button{
+  padding: 20px;
+}
+.btn-group{
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 250px;
+  display: flex;
+  justify-content: space-between;
+   
+}
